@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Bishwajeet-Kau/static/css/main.74ba33f7.css",
-    "main.js": "/Bishwajeet-Kau/static/js/main.12b4a6dd.js",
+    "main.js": "/Bishwajeet-Kau/static/js/main.f86f975f.js",
     "static/js/787.8cf52469.chunk.js": "/Bishwajeet-Kau/static/js/787.8cf52469.chunk.js",
     "static/media/logo2.png": "/Bishwajeet-Kau/static/media/logo2.0a82c0c0341419350f22.png",
     "static/media/logo.png": "/Bishwajeet-Kau/static/media/logo.28761d2c2f60759a32e0.png",
     "static/media/logo.svg": "/Bishwajeet-Kau/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Bishwajeet-Kau/index.html",
     "main.74ba33f7.css.map": "/Bishwajeet-Kau/static/css/main.74ba33f7.css.map",
-    "main.12b4a6dd.js.map": "/Bishwajeet-Kau/static/js/main.12b4a6dd.js.map",
+    "main.f86f975f.js.map": "/Bishwajeet-Kau/static/js/main.f86f975f.js.map",
     "787.8cf52469.chunk.js.map": "/Bishwajeet-Kau/static/js/787.8cf52469.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74ba33f7.css",
-    "static/js/main.12b4a6dd.js"
+    "static/js/main.f86f975f.js"
   ]
 }
